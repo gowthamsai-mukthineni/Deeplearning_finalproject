@@ -1,4 +1,4 @@
-Data-Driven Feature Tracking for Aerial Imagery
+#Data-Driven Feature Tracking for Aerial#
 Objective:
 Apply a data-driven feature tracking method, originally designed for event cameras, to aerial imagery to extract features and build feature tracks over an image sequence. These tracks will be used to estimate 3D camera poses using a Structure-from-Motion (SfM) algorithm. The project will also evaluate the quality of the recovered camera poses.
 
